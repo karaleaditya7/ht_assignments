@@ -1,0 +1,16 @@
+What is docker  and what is key feature?
+
+Ans.: Docker is container management tool' used for deployment purpose. It is a software container 		 platform. There is no pre-allocation of RAM in docker like VM.
+
+         Docker containers are light in weight, cheaper, can create number of containers from single 		 image. It uses only Host OS. Over which we create container engine by
+
+         using Docker and can install various applications by sing docker images.
+
+How docker help on manage multiple environment and multiple version same software ?
+
+Ans.: We can run particular image in multiple environment. Docker server recieve the command the 		 commands from the docker client through CLI or Rest API. Docker
+
+         client and server can be present on the same host (machine) or diff host.Host OS---->cintainer 	 engine---->apps or Host OS----> VM -----> container engine ----> apps
+
+
+
